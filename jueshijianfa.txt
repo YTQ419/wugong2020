@@ -1,0 +1,8 @@
+flume
+kafka_channel
+kafka_sink
+kafka_source
+hbase
+hadoop
+zookeeper
+hive
